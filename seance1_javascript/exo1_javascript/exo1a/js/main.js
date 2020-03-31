@@ -1,1 +1,2 @@
-alert('bonjour tout le monde');
+let phrase = "Bonjour tout le monde !";
+document.write(phrase);
